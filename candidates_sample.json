@@ -1,0 +1,1 @@
+[{"expression":"rank(ts_zscore(ts_backfill(implied_volatility_mean_30, 20), 120)) * rank(-returns)","id":"OK_EXAMPLE"},{"expression":"rank(cash_flow_op / cap)","id":"TYPO_EXAMPLE"},{"expression":"rank(actual_earnings_per_share_2)","id":"VECTOR_EXAMPLE"},{"expression":"rank(vec_avg(actual_earnings_per_share_2))","id":"VECTOR_FIXED"}]

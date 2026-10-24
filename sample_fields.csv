@@ -1,0 +1,11 @@
+id,type
+returns,MATRIX
+close,MATRIX
+open,MATRIX
+volume,MATRIX
+cap,MATRIX
+cashflow_op,MATRIX
+operating_income,MATRIX
+implied_volatility_mean_30,MATRIX
+implied_volatility_mean_120,MATRIX
+actual_earnings_per_share_2,VECTOR
